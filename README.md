@@ -2,4 +2,4 @@
 
 to run use the command
 
-``` go run loop.g```
+``` go run loop.go```
